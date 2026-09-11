@@ -1,0 +1,15 @@
+{
+  "name": "photon-pulse-9316",
+  "version": "0.1.0",
+  "generator": "PushForge Engine",
+  "capabilities": [
+    "ideate",
+    "compose",
+    "commit"
+  ],
+  "manifest": {
+    "entry": "src/index.ts",
+    "seed": 5201,
+    "createdAt": "2026-09-11T12:59:36.746Z"
+  }
+}
